@@ -35,6 +35,11 @@ a {
     padding: 0 16px;
 }
 
+.navbar .navbar-logo a {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
 .quote-section {
     display: flex;
     justify-content: center;
