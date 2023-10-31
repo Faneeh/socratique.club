@@ -20,6 +20,10 @@ a {
 .navbar {
     display: flex;
     justify-content: space-between;
+    background: #e7e6d0;
+}
+
+.navbar .navbar-logo, .navbar-links {
     margin: 0.1% 10%;
 }
 
