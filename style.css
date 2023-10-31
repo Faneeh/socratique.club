@@ -25,6 +25,8 @@ a {
     justify-content: space-between;
     align-items: center;
     backdrop-filter: blur(50px);
+    padding-top: 1px;
+    padding-bottom: 5px;
 }
 
 .navbar .navbar-logo, .navbar-links {
@@ -34,6 +36,7 @@ a {
 .navbar .navbar-links a {
     font-size: 28px;
     padding: 0 20px;
+    padding-top: 5px;
 }
 
 .navbar .navbar-logo a {
