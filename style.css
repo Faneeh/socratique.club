@@ -42,7 +42,7 @@ a {
     align-items: center;
     font-size: 48px;
     backdrop-filter: blur(10px);
-    margin: 10% 0;
+    margin: 12.5% 0;
 }
 
 .quote-section::before {
