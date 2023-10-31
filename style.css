@@ -23,6 +23,7 @@ a {
 .navbar {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     backdrop-filter: blur(50px);
 }
 
@@ -31,8 +32,8 @@ a {
 }
 
 .navbar .navbar-links a {
-    font-size: 24px;
-    padding: 0 16px;
+    font-size: 28px;
+    padding: 0 20px;
 }
 
 .navbar .navbar-logo a {
