@@ -43,7 +43,10 @@ a {
     flex-direction: column;
     font-size: 48px;
     backdrop-filter: blur(15px);
-    margin: 12.5% 0;
+    margin: 12.5% auto;
+    width: 50%;
+    border-radius: 16px;
+    overflow: hidden;
 }
 
 .quote-section .author {
