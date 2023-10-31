@@ -20,4 +20,5 @@ a {
 .navbar {
     display: flex;
     justify-content: space-between;
+    margin: 0.1% 10%;
 }
