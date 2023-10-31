@@ -49,18 +49,13 @@ a {
     font-size: 64px;
     backdrop-filter: blur(15px);
     margin: 12.5% auto;
-    width: 50%;
+    width: 45%;
     border-radius: 16px;
     overflow: hidden;
 }
 
 .quote-section span {
     font-family: 'Oleo Script';
-}
-
-.quote-section .author {
-    align-self: flex-end;
-    margin-right: 25%;
 }
 
 .quote-section::before {
