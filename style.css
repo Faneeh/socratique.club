@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: #070707;
 }
 
 body {
@@ -21,6 +22,7 @@ a {
     display: flex;
     justify-content: space-between;
     background: #e7e6d0;
+    backdrop-filter: blur(5px);
 }
 
 .navbar .navbar-logo, .navbar-links {
