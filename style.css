@@ -9,6 +9,8 @@
 
 body {
     background: #E5E3CA;
+    height: 100vh;
+    width: 100%;
 }
 
 a {
@@ -17,5 +19,5 @@ a {
 
 .navbar {
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
 }
