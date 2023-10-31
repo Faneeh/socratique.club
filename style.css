@@ -7,6 +7,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background: #E5E3CA;
+}
+
 a {
     text-decoration: none;
 }
