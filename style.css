@@ -80,6 +80,8 @@ a {
     margin: 20% auto;
     border-radius: 16px;
     overflow: hidden;
+    width: 100%;
+    height: auto;
 }
 
 .team-section .title {
@@ -90,6 +92,12 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.members .member {
+    flex: 1 0 33.33%;
 }
 
 .member .member-image {
