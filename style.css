@@ -73,7 +73,7 @@ a {
 
 .team-section {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     flex-direction: column;
     backdrop-filter: blur(15px);
@@ -84,4 +84,10 @@ a {
 
 .team-section .title {
     font-size: 80px;
+}
+
+.team-section .members {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
