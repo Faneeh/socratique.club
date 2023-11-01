@@ -61,7 +61,7 @@ a {
     font-family: 'Oleo Script';
 }
 
-.quote-section::before {
+.quote-section::before, .team-section::before {
     content: "";
     position: absolute;
     top: 0;
