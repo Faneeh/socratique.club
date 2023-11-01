@@ -108,3 +108,7 @@ a {
     background: url(placeholder-image.jpg);
     background-size: cover;
 }
+
+.member .member-name {
+    font-size: 32px;
+}
